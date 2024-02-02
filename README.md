@@ -1,7 +1,7 @@
 # Playwright Project
 
 ## Description
-This was a take home assessment I completed for an Automation Engineer role in which I was provided a fictional Next.js app, and I was asked to write at least one automation test per filter. All of my code can be found in the test directory.
+This was a take home assessment I completed for an Automation Engineer role in which I was provided a fictional Next.js app, and I was asked to write at least one automation test per filter. All of my code can be found in the "tests" directory.
 
 ### Requirements
 
