@@ -1,0 +1,165 @@
+[
+    {
+        "testCase_Title": "TC1.3 Searching for an id with invalid characters should result in an Error Message. Step 1 - Searching: ~",
+        "expectedError": "Invalid query: reportId must be a `number` type, but the final value was: `NaN`",
+        "SearchValue": "~"
+    },
+    {
+        "testCase_Title": "TC1.3 Searching for an id with invalid characters should result in an Error Message. Step 2 - Searching: `",
+        "expectedError": "Invalid query: reportId must be a `number` type, but the final value was: `NaN`",
+        "SearchValue": "`"
+    },
+    {
+        "testCase_Title": "TC1.3 Searching for an id with invalid characters should result in an Error Message. Step 3 - Searching: !",
+        "expectedError": "Invalid query: reportId must be a `number` type, but the final value was: `NaN`",
+        "SearchValue": "!"
+    },
+    {
+        "testCase_Title": "TC1.3 Searching for an id with invalid characters should result in an Error Message. Step 4 -  Searching: @",
+        "expectedError": "Invalid query: reportId must be a `number` type, but the final value was: `NaN`",
+        "SearchValue": "@"
+    },
+    {
+        "testCase_Title": "TC1.3 Searching for an id with invalid characters should result in an Error Message. Step 5 -  Searching: #",
+        "expectedError": "Invalid query: reportId must be a `number` type, but the final value was: `NaN`",
+        "SearchValue": "#"
+    },
+    {
+        "testCase_Title":"TC1.3 Searching for an id with invalid characters should result in an Error Message. Step 6 - Searching: $",
+        "expectedError":"Invalid query: reportId must be a `number` type, but the final value was: `NaN`",        
+        "SearchValue":"$"
+    },
+    {
+        "testCase_Title":"TC1.3 Searching for an id with invalid characters should result in an Error Message. Step 7 -  Searching: %",
+        "expectedError":"Invalid query: reportId must be a `number` type, but the final value was: `NaN`",        
+        "SearchValue":"%"
+    },
+    {
+        "testCase_Title":"TC1.3 Searching for an id with invalid characters should result in an Error Message. Step 8 -  Searching: ^",
+        "expectedError":"Invalid query: reportId must be a `number` type, but the final value was: `NaN`",        
+        "SearchValue":"^"
+    },
+    {
+        "testCase_Title":"TC1.3 Searching for an id with invalid characters should result in an Error Message. Step 9 -  Searching: &",
+        "expectedError":"Invalid query: reportId must be a `number` type, but the final value was: `NaN`",        
+        "SearchValue":"&"
+    },
+    {
+        "testCase_Title":"TC1.3 Searching for an id with invalid characters should result in an Error Message. Step 10 -  Searching: *",
+        "expectedError":"Invalid query: reportId must be a `number` type, but the final value was: `NaN`",        
+        "SearchValue":"*"
+    },
+    {
+        "testCase_Title":"TC1.3 Searching for an id with invalid characters should result in an Error Message. Step 11 - Searching: (",
+        "expectedError":"Invalid query: reportId must be a `number` type, but the final value was: `NaN`",        
+        "SearchValue":"("
+    },
+    {
+        "testCase_Title":"TC1.3 Searching for an id with invalid characters should result in an Error Message. Step 12 -  Searching: )",
+        "expectedError":"Invalid query: reportId must be a `number` type, but the final value was: `NaN`",        
+        "SearchValue":")"
+    },
+    {
+        "testCase_Title":"TC1.3 Searching for an id with invalid characters should result in an Error Message. Step 13 -  Searching: -",
+        "expectedError":"Invalid query: reportId must be a `number` type, but the final value was: `NaN`",        
+        "SearchValue":"-"
+    },
+    {
+        "testCase_Title":"TC1.3 Searching for an id with invalid characters should result in an Error Message. Step 14 -  Searching: =",
+        "expectedError":"Invalid query: reportId must be a `number` type, but the final value was: `NaN`",        
+        "SearchValue":"="
+    },
+    {
+        "testCase_Title":"TC1.3 Searching for an id with invalid characters should result in an Error Message. Step 15 -  Searching: +",
+        "expectedError":"Invalid query: reportId must be a `number` type, but the final value was: `NaN`",        
+        "SearchValue":"+"
+    },
+    {
+        "testCase_Title":"TC1.3 Searching for an id with invalid characters should result in an Error Message. Step 16 -  Searching: {",
+        "expectedError":"Invalid query: reportId must be a `number` type, but the final value was: `NaN`",        
+        "SearchValue":"{"
+    },
+    {
+        "testCase_Title":"TC1.3 Searching for an id with invalid characters should result in an Error Message. Step 17 -  Searching: }",
+        "expectedError":"Invalid query: reportId must be a `number` type, but the final value was: `NaN`",        
+        "SearchValue":"}"
+    },
+    {
+        "testCase_Title":"TC1.3 Searching for an id with invalid characters should result in an Error Message. Step 18 -  Searching: [",
+        "expectedError":"Invalid query: reportId must be a `number` type, but the final value was: `NaN`",        
+        "SearchValue":"["
+    },
+    {
+        "testCase_Title":"TC1.3 Searching for an id with invalid characters should result in an Error Message. Step 19 -  Searching: ]",
+        "expectedError":"Invalid query: reportId must be a `number` type, but the final value was: `NaN`",        
+        "SearchValue":"]"
+    },
+    {
+        "testCase_Title":"TC1.3 Searching for an id with invalid characters should result in an Error Message. Step 20 -  Searching: \\",
+        "expectedError":"Invalid query: reportId must be a `number` type, but the final value was: `NaN`",        
+        "SearchValue":"\\"
+    },
+    {
+        "testCase_Title":"TC1.3 Searching for an id with invalid characters should result in an Error Message. Step 21 -  Searching: |",
+        "expectedError":"Invalid query: reportId must be a `number` type, but the final value was: `NaN`",        
+        "SearchValue":"|"
+    },
+    {
+        "testCase_Title":"TC1.3 Searching for an id with invalid characters should result in an Error Message. Step 22 -  Searching: :",
+        "expectedError":"Invalid query: reportId must be a `number` type, but the final value was: `NaN`",        
+        "SearchValue":":"
+    },
+    {
+        "testCase_Title":"TC1.3 Searching for an id with invalid characters should result in an Error Message. Step 23 -  Searching: ;",
+        "expectedError":"Invalid query: reportId must be a `number` type, but the final value was: `NaN`",        
+        "SearchValue":";"
+    },
+    {
+        "testCase_Title":"TC1.3 Searching for an id with invalid characters should result in an Error Message. Step 24 -  Searching: \"",
+        "expectedError":"Invalid query: reportId must be a `number` type, but the final value was: `NaN`",        
+        "SearchValue":"\""
+    },
+    {
+        "testCase_Title":"TC1.3 Searching for an id with invalid characters should result in an Error Message. Step 25 -  Searching: '",
+        "expectedError":"Invalid query: reportId must be a `number` type, but the final value was: `NaN`",        
+        "SearchValue":"'"
+    },
+    {
+        "testCase_Title":"TC1.3 Searching for an id with invalid characters should result in an Error Message. Step 26 -  Searching: <",
+        "expectedError":"Invalid query: reportId must be a `number` type, but the final value was: `NaN`",        
+        "SearchValue":"<"
+    },
+    {
+        "testCase_Title":"TC1.3 Searching for an id with invalid characters should result in an Error Message. Step 27 -  Searching: ,",
+        "expectedError":"Invalid query: reportId must be a `number` type, but the final value was: `NaN`",        
+        "SearchValue":","
+    },
+    {
+        "testCase_Title":"TC1.3 Searching for an id with invalid characters should result in an Error Message. Step 28 - Searching: >",
+        "expectedError":"Invalid query: reportId must be a `number` type, but the final value was: `NaN`",        
+        "SearchValue":">"
+    },
+    {
+        "testCase_Title":"TC1.3 Searching for an id with invalid characters should result in an Error Message. Step 29 -  Searching: .",
+        "expectedError":"Invalid query: reportId must be a `number` type, but the final value was: `NaN`",        
+        "SearchValue":"."
+    },
+    {
+        "testCase_Title":"TC1.3 Searching for an id with invalid characters should result in an Error Message. Step 30 -  Searching: ?",
+        "expectedError":"Invalid query: reportId must be a `number` type, but the final value was: `NaN`",        
+        "SearchValue":"?"
+    },
+    {
+        "testCase_Title":"TC1.3 Searching for an id with invalid characters should result in an Error Message. Step 31 - Searching: /",
+        "expectedError":"Invalid query: reportId must be a `number` type, but the final value was: `NaN`",        
+        "SearchValue":"/"
+    }
+
+
+
+
+
+
+
+
+]

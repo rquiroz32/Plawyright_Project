@@ -1,0 +1,37 @@
+[    
+    {
+        "testCase_Title":"TC2.4 Filter By Severity: Critical",
+        "expectedValue": "Critical",
+        "colIndex": "5",
+        "FilterValue":"Severity",
+        "ExpectedMatchCount":"10"
+    },
+    {
+        "testCase_Title":"TC2.4 Filter By Severity: High",
+        "expectedValue": "High",
+        "colIndex": "5",
+        "FilterValue":"Severity",
+        "ExpectedMatchCount":"10"
+    },
+    {
+        "testCase_Title":"TC2.4 Filter By Severity: Medium",
+        "expectedValue": "Medium",
+        "colIndex": "5",
+        "FilterValue":"Severity",
+        "ExpectedMatchCount":"10"
+    },
+    {
+        "testCase_Title":"TC2.4 Filter By Severity: Low",
+        "expectedValue": "Low",
+        "colIndex": "5",
+        "FilterValue":"Severity",
+        "ExpectedMatchCount":"10"
+    },
+    {
+        "testCase_Title":"TC2.4 Filter By Severity: None",
+        "expectedValue": "None",
+        "colIndex": "5",
+        "FilterValue":"Severity",
+        "ExpectedMatchCount":"10"
+    }
+]

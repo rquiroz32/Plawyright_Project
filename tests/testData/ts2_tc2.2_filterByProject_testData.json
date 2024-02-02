@@ -1,0 +1,57 @@
+[
+    {
+        "testCase_Title":"TC2.2 Filter By Project: Wallet Wonders",
+        "expectedValue": "Wallet Wonders",
+        "colIndex": "2",
+        "FilterValue":"Project",
+        "ExpectedMatchCount":"10"
+    },
+    {
+        "testCase_Title":"TC2.2 Filter By Project: Encrypted Exchange",
+        "expectedValue": "Encrypted Exchange",
+        "colIndex": "2",
+        "FilterValue":"Project",
+        "ExpectedMatchCount":"10"
+    },
+    {
+        "testCase_Title":"TC2.2 Filter By Project: Hash Hacienda",
+        "expectedValue": "Hash Hacienda",
+        "colIndex": "2",
+        "FilterValue":"Project",
+        "ExpectedMatchCount":"10"
+    },
+    {
+        "testCase_Title":"TC2.2 Filter By Project: Public Key Party",
+        "expectedValue": "Public Key Party",
+        "colIndex": "2",
+        "FilterValue":"Project",
+        "ExpectedMatchCount":"10"
+    },
+    {
+        "testCase_Title":"TC2.2 Filter By Project: Satoshi Boulevard",
+        "expectedValue": "Satoshi Boulevard",
+        "colIndex": "2",
+        "FilterValue":"Project",
+        "ExpectedMatchCount":"10"
+    },
+    {
+        "testCase_Title":"TC2.2 Filter By Project: KeyKeepers",
+        "expectedValue": "Key Keepers",
+        "colIndex": "2",
+        "FilterValue":"Project",
+        "ExpectedMatchCount":"10"
+    },
+    {
+        "testCase_Title":"TC2.2 Filter By Project: Big-Endians",
+        "expectedValue": "Big-Endians",
+        "colIndex": "2",
+        "FilterValue":"Project",
+        "ExpectedMatchCount":"10"
+    },
+    {
+        "testCase_Title":"TC2.2 Filter By Project: Small-Endians",
+        "expectedValue": "Small-Endians",
+        "colIndex": "2",
+        "FilterValue":"Project",
+        "ExpectedMatchCount":"10"
+    }]

@@ -1,0 +1,23 @@
+[    
+    {
+        "testCase_Title": "TC2.3 Filter By Type:WebsitesWebApp",
+        "expectedValue": "Websites / WebApps",
+        "colIndex": "4",
+        "FilterValue":"Type",
+        "ExpectedMatchCount":"10"
+    },
+    {
+        "testCase_Title": "TC2.3 Filter By Type:BlockChainDLT",
+        "expectedValue": "Blockchain / DLT",
+        "colIndex": "4",
+        "FilterValue":"Type",
+        "ExpectedMatchCount":"10"
+    },
+    {
+        "testCase_Title": "TC2.3 Filter By Type: SmartContract",
+        "expectedValue": "Smart Contract",
+        "colIndex": "4",
+        "FilterValue":"Type",
+        "ExpectedMatchCount":"10"
+    }   
+]

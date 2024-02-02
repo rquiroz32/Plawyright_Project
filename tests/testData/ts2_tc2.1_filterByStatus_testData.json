@@ -1,0 +1,39 @@
+[
+    {
+        "testCase_Title":"TC2.1 Filter By Status: Reported",
+        "expectedValue":"Reported",
+        "colIndex":"6",
+        "FilterValue":"Reported",
+        "ExpectedMatchCount":"10"
+
+   },
+    {
+        "testCase_Title":"TC2.1 Filter By Status: Escalated",
+        "expectedValue": "Escalated",
+        "colIndex": "6",
+        "FilterValue":"Escalated",
+        "ExpectedMatchCount":"10"
+    },
+    {
+        "testCase_Title":"TC2.1 Filter By Status: Confirmed",
+        "expectedValue": "Confirmed",
+        "colIndex": "6",
+        "FilterValue":"Confirmed",
+        "ExpectedMatchCount":"10"
+    },
+    {
+        "testCase_Title":"TC2.1 Filter By Status: Paid",
+        "expectedValue": "Paid",
+        "colIndex": "6",
+        "FilterValue":"Paid",
+        "ExpectedMatchCount":"10"
+    },
+    {
+        "testCase_Title":"TC2.1 Filter By Status: Closed",
+        "expectedValue": "Closed",
+        "colIndex": "6",
+        "FilterValue":"Closed",
+        "ExpectedMatchCount":"10"
+    }
+    
+]
